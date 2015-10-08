@@ -1,0 +1,19 @@
+{
+  "name": "todo",
+  "version": "0.0.1",
+  "description": "Quick-start todo example.",
+  "main": "index.html",
+  "dependencies": {
+    "bower": "^1.5.3",
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {
+    "gulp-webserver": "^0.9.1",
+    "nopt": "^3.0.4"
+  },
+  "scripts": {
+    "test": "http://www.apache.org/licenses/LICENSE-2.0"
+  },
+  "author": "Google",
+  "license": "ISC"
+}

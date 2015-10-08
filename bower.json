@@ -1,0 +1,17 @@
+{
+  "name": "Lovefield Demo",
+  "version": "1",
+  "description": "\"Lovefield - A Data Access Library\"",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
